@@ -4,4 +4,4 @@
 + Update unchecked.txt in src/
 + run start.py using python3 start.py
 
-#MadeByLonder"# NGL-SPAMMER---WINDOWS" 
+#MadeByLonder
